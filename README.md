@@ -26,7 +26,9 @@
 - Настройки параметров резки под фанеру 3 мм
 
 ### 3. Лазерная резка на станке Split GSL
-![Процесс лазерной резки Bristleback](readmefiles/bristle-vid.gif)
+<p align="center">
+    <video src="https://github.com/user-attachments/assets/38d275d9-f9ca-42b1-a61a-fcae89c59cf3" controls></video>
+</p>
 
 Станок выполнил точную резку всех деталей конструкции. Результат вырезки показан ниже:
 
